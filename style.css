@@ -4,6 +4,7 @@
 .heading{
     text-align: center;
     padding: 2rem;
+    font-family: cursive;
 }
 .col{
     display: flex;
@@ -76,4 +77,16 @@
 }
 .flip-card:hover .flip-card-inner{
     transform: rotateY(180deg);
+}
+.footer{
+    height: 3.5rem ;
+    background-color: darkgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: antiquewhite;
+    margin-top: 3rem;
+}
+.footer p{
+    background-color: darkgreen;
 }
