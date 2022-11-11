@@ -1,11 +1,20 @@
+.col{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
 .row{
     display: flex;
-    justify-content: center;
+    flex-direction: row;
+    justify-content: space-between;
     align-items: center;
-}.flip-card{
+}
+.flip-card{
     width: 12rem;
     height: 16rem;
     margin: auto;
+    padding: 2rem;
 }
 .flip-card-front{
     width: 12rem;
