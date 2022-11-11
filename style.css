@@ -38,7 +38,7 @@
 .flip-card-front{
     width: 12rem;
     height: 16rem;
-    background-color: #6f6a68;
+    background-color: #8a8583;
     border-radius: 1rem;
     color: #fff;
     text-align: center;
@@ -50,7 +50,7 @@
     padding: 0.4rem 0;
 }
 .flip-card-front p{
-    background-color: #6f6a68;
+    background-color: #8a8583;
     padding: 0 0.5rem
 }
 .flip-card-back{
